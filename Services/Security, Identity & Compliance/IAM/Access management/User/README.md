@@ -1,7 +1,7 @@
 # Creating an IAM User on AWS
 ## User
 
-Click **Services**.There are lot of Services in page.
+Click **Services**.There are lot of Services available.
 Select Security, Identity & Compliance 
 ![iamuser1](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser1.png)
 ![iamuser2](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser2.png)
