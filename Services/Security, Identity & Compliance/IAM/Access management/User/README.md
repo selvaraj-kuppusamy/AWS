@@ -56,8 +56,16 @@ Choose Next: Review
 
 To see all of the choices you made up to this point. When you are ready to proceed, choose Create user.
 
-
 ![iamuser8](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser8.png)
+
+To save the access keys, choose Download .csv and then save the file to a safe location.
+
 ![iamuser9](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser9.png)
+ 
+In IAM user selvarajkuppusamy is successfully created.
+
 ![iamuser10](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser10.png)
+
+Then Explore Premissions,Groups,Tags,Security credentials and Access advisor
+
 ![iamuser11](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser11.png)
