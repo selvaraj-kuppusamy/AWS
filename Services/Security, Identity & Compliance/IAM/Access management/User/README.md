@@ -15,7 +15,7 @@ Type the user name for the new user. This is the sign-in name for AWS. If you wa
 
 ![iamuser3](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser3.png)
 
-Type the Username in IAM
+Type the Username in box
 
 ![iamuser4](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser4.png)
 
@@ -50,6 +50,7 @@ Add metadata to the user by attaching tags as key-value pairs.
 For Example: 
  * username : selvarajkuppusamy 
  * purpose  : Access EC2 Instance
+
 Choose Next: Review
  
 ![iamuser7](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser7.png)
