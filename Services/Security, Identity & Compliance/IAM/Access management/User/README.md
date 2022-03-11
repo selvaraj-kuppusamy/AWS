@@ -11,7 +11,7 @@ In the navigation pane, choose Users and then choose Add users.
 
 ![iamuser2](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser2.png)
 
-ype the user name for the new user. This is the sign-in name for AWS. If you want to add multiple users, choose Add another user for each additional user and type their user names. You can add up to 10 users at one time.
+Type the user name for the new user. This is the sign-in name for AWS. If you want to add multiple users, choose Add another user for each additional user and type their user names. You can add up to 10 users at one time.
 
 ![iamuser3](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser3.png)
 
