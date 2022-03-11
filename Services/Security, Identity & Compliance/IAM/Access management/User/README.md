@@ -33,6 +33,16 @@ Select the type of access this set of users will have. You can select programmat
 Choose Next: Permissions.
 
 ![iamuser5](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser5.png)
+
+On the Set permissions page, specify how you want to assign permissions to this set of new users. Choose one of the following three options:
+
+- Add user to group
+- Copy permissions from existing user
+- Attach existing policies directly
+  In My case I Choose Attach existing policies directly and the I Select AmazonEC2FullAccess policies.
+
+Choose Next: Tags.
+
 ![iamuser6](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser6.png)
 ![iamuser7](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser7.png)
 ![iamuser8](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser8.png)
