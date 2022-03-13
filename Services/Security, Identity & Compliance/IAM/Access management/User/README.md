@@ -2,11 +2,11 @@
 ## User
 
 Click **Services**.There are lot of Services available.
-Select Security, Identity & Compliance, Select IAM.
+Select **Security, Identity & Compliance**, Select **IAM**.
 
 ![iamuser1](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser1.png)
 
-In the navigation pane, choose Users and then choose Add users.
+In the navigation pane, choose **Users** and then choose Add **Users**.
 
 
 ![iamuser2](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser2.png)
@@ -15,7 +15,7 @@ Type the user name for the new user. This is the sign-in name for AWS. If you wa
 
 ![iamuser3](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser3.png)
 
-Type the Username in box
+Type the **Username** in box
 
 ![iamuser4](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser4.png)
 
