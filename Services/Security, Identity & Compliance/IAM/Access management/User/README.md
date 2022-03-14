@@ -64,7 +64,7 @@ To save the access keys, choose Download .csv and then save the file to a safe l
 
 ![iamuser9](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser9.png)
  
-In IAM user selvarajkuppusamy is successfully created.
+In IAM user **selvarajkuppusamy** is successfully created.
 
 ![iamuser10](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser10.png)
 
