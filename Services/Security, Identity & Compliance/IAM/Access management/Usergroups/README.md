@@ -1,5 +1,5 @@
-# Creating an IAM User on AWS
-## User
+# Creating an IAM User groups on AWS
+## User groups
 
 
 ![iamusergroups1](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/Usergroups/assets/iamusergroups1.png)
