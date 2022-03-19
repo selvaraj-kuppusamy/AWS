@@ -1,9 +1,9 @@
 # Creating an IAM User groups on AWS
 ## User groups
 
-Click Services.There are lot of Services available.
+Click **Services**.There are lot of Services available.
 
-Select Security, Identity & Compliance, Select IAM.
+Select Security, Identity & Compliance, Select **IAM**.
 
 ![iamusergroups1](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/Usergroups/assets/iamusergroups1.png)
 ![iamusergroups2](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/Usergroups/assets/iamusergroups2.png)
