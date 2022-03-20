@@ -7,7 +7,7 @@ Select Security, Identity & Compliance, Select **IAM**.
 
 ![iamusergroups1](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/Usergroups/assets/iamusergroups1.png)
 
-In the navigation pane, choose Users and then choose Add Users.
+In the navigation pane, choose Users groups.
 
 ![iamusergroups2](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/Usergroups/assets/iamusergroups2.png)
 
