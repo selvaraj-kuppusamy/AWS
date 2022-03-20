@@ -30,7 +30,15 @@ In the list of policies, select the check box for each policy that you want to a
 Choose Create group.
 
 ![iamusergroups7](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/Usergroups/assets/iamusergroups7.png)
+
+Now, Selvaraj User group is Successfully Created.
+
 ![iamusergroups8](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/Usergroups/assets/iamusergroups8.png)
-![iamusergroups9](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/Usergroups/assets/iamusergroups9.png)
+
+Explore Users
+
 ![iamusergroups10](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/Usergroups/assets/iamusergroups10.png)
+
+Explore Permissions
+
 ![iamusergroups11](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/Usergroups/assets/iamusergroups11.png)
