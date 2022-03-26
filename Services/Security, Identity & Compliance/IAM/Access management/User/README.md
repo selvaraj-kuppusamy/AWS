@@ -43,7 +43,7 @@ On the Set permissions page, specify how you want to assign permissions to this 
 
   In My case I Choose Attach existing policies directly and the I Select AmazonEC2FullAccess policies.
 
-Choose Next: Tags.
+Choose Next: **Tags**.
 
 ![iamuser6](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser6.png)
 
@@ -52,7 +52,7 @@ For Example:
  * username : selvarajkuppusamy 
  * purpose  : Access EC2 Instance
 
-Choose Next: Review
+Choose Next: **Review**.
  
 ![iamuser7](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser7.png)
 
