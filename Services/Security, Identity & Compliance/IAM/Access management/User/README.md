@@ -31,7 +31,7 @@ Select the type of access this set of users will have. You can select programmat
   - Custom password. Each user is assigned the password that you type in the box.
 - (Optional) We recommend that you select Require password reset to ensure that users are forced to change their password the first time they sign in.
 
-Choose Next: Permissions.
+Choose Next: **Permissions**.
 
 ![iamuser5](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser5.png)
 
@@ -56,7 +56,7 @@ Choose Next: **Review**.
  
 ![iamuser7](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser7.png)
 
-To see all of the choices you made up to this point. When you are ready to proceed, choose Create user.
+To see all of the choices you made up to this point. When you are ready to proceed, choose **Create user**.
 
 ![iamuser8](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser8.png)
 
