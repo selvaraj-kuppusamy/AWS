@@ -68,6 +68,6 @@ In IAM user **selvarajkuppusamy** is successfully created.
 
 ![iamuser10](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser10.png)
 
-Then Explore Premissions,Groups,Tags,Security credentials and Access advisor
+Then, Explore Premissions,Groups,Tags,Security credentials and Access advisor
 
 ![iamuser11](https://github.com/selvaraj-kuppusamy/AmazonWebServices/blob/main/Services/Security%2C%20Identity%20%26%20Compliance/IAM/Access%20management/User/assets/iamuser11.png)
